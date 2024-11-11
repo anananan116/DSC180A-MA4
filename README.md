@@ -1,2 +1,2 @@
-# DSC180A-MA4
+# DSC180A-Methodology-4
 Zihan Liu and So Hirota
