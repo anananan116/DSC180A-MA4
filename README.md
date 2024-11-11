@@ -1,3 +1,2 @@
 # DSC180A-MA4
-Zihan Liu
-zil065@ucsd.edu
+Zihan Liu and So Hirota
